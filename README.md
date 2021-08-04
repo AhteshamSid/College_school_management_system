@@ -4,7 +4,7 @@ Demo live [click](http://jamiahamdardmanagements.herokuapp.com/).
 ## setup on Linux or in any windows (python installed directory or better to use pycharm/vscode project directory)
 
 1. Clone This Project `git clone https://github.com/AhteshamSid/College_school_management_system.git`
-2. Go To Project Directory `cd Tournament-django-app`
+2. Go To Project Directory `cd College_school_management_system`
 3. Create a Virtual Environment `python -m venv venv`
 4. Activate Virtual Environment `source venv/bin/activate`
 5. Install Requirements Package `pip install -r requirements.txt`
